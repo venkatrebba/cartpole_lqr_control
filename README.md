@@ -2,8 +2,8 @@
 
 Execution instrictions
 
-1 cd catkin_ws/src
-2. git clone https://github.com/venkatrebba/cartpole_lqr_control/
+1 cd catkin_ws/src \n
+2. git clone https://github.com/venkatrebba/cartpole_lqr_control/ \n
 3. cd catkin_ws
 4. catkin build
 5. chmod +x catkin_ws/src/cartpole_lqr_control/invpend_control/src/controller.py 
